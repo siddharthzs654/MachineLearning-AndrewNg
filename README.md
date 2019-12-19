@@ -1,1 +1,1 @@
-# machine-learning-AndrewNg
+# Machine Learning By Andrew Ng (Coursera)
